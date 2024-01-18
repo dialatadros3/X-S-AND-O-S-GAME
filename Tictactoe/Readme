@@ -1,0 +1,18 @@
+Open a terminal and navigate to the directory where you saved the file
+---> on top off visual studio click Terminal 
+        ---> New terminal
+        ---> cd Desktop
+        ---> cd Tictactoe
+        ---> node tictactoe.js
+
+The game will prompt you to make moves by specifying the row and column (both ranging from 0 to 2). For example:
+
+
+Player X, enter row (0-2): 1
+Player X, enter column (0-2): 2
+The game board will be displayed after each move. If a player wins or the game ends in a tie, the result will be shown, and the program will exit.
+
+Follow the prompts until the game concludes.
+
+Follow the steps to final game results
+
